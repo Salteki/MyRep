@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b3de6c4-c0b6-4183-b88c-8e3d42490a01" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QzidbUHdv70n297hmTgsPYPPwx" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SciCalculator">
+    <configuration name="SciCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SciCalculator" />
+      <module name="SciCalculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScientificCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScientificCalculator" />
+      <module name="SciCalculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="SciCalculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SciCalculator" />
+        <item itemvalue="Application.ScientificCalculator" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b3de6c4-c0b6-4183-b88c-8e3d42490a01" name="Default Changelist" comment="" />
+      <created>1568779913880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568779913880</updated>
+      <workItem from="1568779915031" duration="717000" />
+      <workItem from="1568780735111" duration="307000" />
+      <workItem from="1568840788820" duration="218000" />
+      <workItem from="1568849064544" duration="6459000" />
+      <workItem from="1568858368680" duration="10000" />
+      <workItem from="1568858418658" duration="19000" />
+      <workItem from="1569296714413" duration="3000" />
+      <workItem from="1570069184119" duration="111000" />
+      <workItem from="1570072440289" duration="733000" />
+      <workItem from="1570079665906" duration="4000" />
+      <workItem from="1579572809824" duration="42000" />
+      <workItem from="1580093425260" duration="70000" />
+      <workItem from="1580135561286" duration="826000" />
+      <workItem from="1580142265809" duration="174000" />
+      <workItem from="1580142554026" duration="3002000" />
+      <workItem from="1580432563830" duration="50000" />
+      <workItem from="1580432699735" duration="3997000" />
+      <workItem from="1580482461318" duration="239000" />
+      <workItem from="1580482763784" duration="334000" />
+      <workItem from="1580483774977" duration="8911000" />
+      <workItem from="1580700169572" duration="73000" />
+      <workItem from="1580700343282" duration="10000" />
+      <workItem from="1580704633896" duration="6000" />
+      <workItem from="1580704646103" duration="29000" />
+      <workItem from="1580704677261" duration="47000" />
+      <workItem from="1580704726331" duration="748000" />
+      <workItem from="1580744463934" duration="412000" />
+      <workItem from="1580746700646" duration="1700000" />
+      <workItem from="1580749868983" duration="5000" />
+      <workItem from="1580835131197" duration="541000" />
+      <workItem from="1580859332649" duration="1200000" />
+      <workItem from="1580869510657" duration="14000" />
+      <workItem from="1580871746654" duration="4000" />
+      <workItem from="1580875332798" duration="7000" />
+      <workItem from="1580947735319" duration="399000" />
+      <workItem from="1581022722689" duration="10000" />
+      <workItem from="1581024441091" duration="1602000" />
+      <workItem from="1581031945760" duration="66000" />
+      <workItem from="1581032720155" duration="27000" />
+      <workItem from="1581345647299" duration="147000" />
+      <workItem from="1581345872570" duration="15000" />
+      <workItem from="1581571588075" duration="85000" />
+      <workItem from="1582603303452" duration="20000" />
+      <workItem from="1582605815752" duration="779000" />
+      <workItem from="1582898133162" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
